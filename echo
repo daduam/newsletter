@@ -1,0 +1,1 @@
+./scripts/init_db.sh: line 40: Postgres has been migrated, ready to go!: command not found
